@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Adivinha</string>
+    <string name="texto_titulo">Digite um número entre 0 e 10:</string>
+    <string name="texto_jogador1">Jogador 1</string>
+    <string name="texto_jogador2">Jogador 2</string>
+    <string name="texto_sorteio">Nenhum número sorteado</string>
+    <string name="texto_resultado">Nenhum vencedor</string>
+    <string name="texto_botao">Sortear</string>
+    <string name="texto_numsorteado">Número sorteado:</string>
+    <string name="texto_empate">Jogador 1 e Jogador 2 empataram!</string>
+    <string name="texto_jog1venceu">Jogador 1 venceu!</string>
+    <string name="texto_jog2venceu">Jogador 2 venceu!</string>
+    <string name="texto_ningvenceu">Ninguém venceu!</string>
+    <string name="texto_msgnuminvalido">Número inválido!</string>
+</resources>

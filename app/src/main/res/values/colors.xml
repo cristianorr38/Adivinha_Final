@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#B7CCB4</color>
+    <color name="colorPrimaryDark">#A5B8A2</color>
+    <color name="colorAccent">#000000</color>
+    <color name="verde_abacate">#bbd1b8</color>
+    <color name="cinza">#717471</color>
+</resources>

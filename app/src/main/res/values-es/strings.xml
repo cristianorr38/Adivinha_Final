@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Adivina</string>
+    <string name="texto_jogador1">Jugador 1:</string>
+    <string name="texto_jogador2">Jugador 2:</string>
+    <string name="texto_resultado">Ningún ganador</string>
+    <string name="texto_sorteio">Ningún número sorteado</string>
+    <string name="texto_titulo">Escriba dos números entre 0 y 10:</string>
+    <string name="texto_botao">Sortear</string>
+    <string name="texto_numsorteado">Número sorteado:</string>
+    <string name="texto_empate">Jugador 1 y Jugador 2 empataron!</string>
+    <string name="texto_jog1venceu">Jugador 1 ganó!</string>
+    <string name="texto_jog2venceu">Jugador 2 ganó!</string>
+    <string name="texto_msgnuminvalido">Número inválido!</string>
+    <string name="texto_ningvenceu">Nadie ganó!</string>
+</resources>

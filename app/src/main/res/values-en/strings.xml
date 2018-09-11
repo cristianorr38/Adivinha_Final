@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Guess What</string>
+    <string name="texto_jogador1">Player 1:</string>
+    <string name="texto_jogador2">Player 2:</string>
+    <string name="texto_resultado">No winner</string>
+    <string name="texto_sorteio">No number selected</string>
+    <string name="texto_titulo">Enter two number between 0 and 10:</string>
+    <string name="texto_botao">Select</string>
+    <string name="texto_numsorteado">Number selected:</string>
+    <string name="texto_jog1venceu">Player 1 win!</string>
+    <string name="texto_jog2venceu">Player 2 win!</string>
+    <string name="texto_empate">Player 1 e Play 2 tied!</string>
+    <string name="texto_ningvenceu">Nobody win!</string>
+    <string name="texto_msgnuminvalido">Invalid number!</string>
+</resources>
